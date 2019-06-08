@@ -1,0 +1,16 @@
+.air-viewer {
+  .filter {
+    width: 100%;
+    margin-bottom: 32px;
+    text-align: center;
+    .station-selector {
+      width: 80%;
+    }
+  }
+
+  .content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
